@@ -1,0 +1,4 @@
+virtual/
+incident/settings.py
+*migrations/
+*.pyc
