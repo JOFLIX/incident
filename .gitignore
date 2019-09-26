@@ -1,4 +1,6 @@
+.env
+*.pyc
 virtual/
 incident/settings.py
-*migrations/
-*.pyc
+customer/migrations/
+agent/migrations/
