@@ -22,7 +22,7 @@ from django.conf import settings
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    path('tatu/',include('tatuadmin.urls')),
+    path('',include('tatuadmin.urls')),
 
 ]
 
